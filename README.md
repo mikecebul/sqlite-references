@@ -1,6 +1,6 @@
 # week3_4
 Assignment for week 3 and 4
-Screenshots in pics folder and a zip file is included of all the files
+Screenshots in pics folder and a 7z file is included of all the files
 
 
 
