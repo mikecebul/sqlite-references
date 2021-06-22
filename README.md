@@ -10,10 +10,11 @@ Task 1, 2, & 3
 
 <img src="./pics/excelBarGraphs.PNG">
 
-<img src="./pics/CaptureImport.PNG">
 
 
 
 Task 4
 
 <img src="./pics/DBBrowser.PNG">
+
+<img src="./pics/CaptureImport.PNG">
