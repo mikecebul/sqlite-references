@@ -6,5 +6,9 @@ Screenshots in pics folder and a 7z file is included of all the files
 
 
 
-Task 1
+Task 1, 2, & 3
 <img src="./pics/excelBarGraphs.PNG">
+<img src="./pics/CaptureImport.PNG">
+
+Task 4
+<img src="./pics/DBBrowser.PNG">
