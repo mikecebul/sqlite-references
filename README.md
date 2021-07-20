@@ -1,2 +1,2 @@
 # week9_10
-SQL SELECT queries
+SQL SELECT queries 1
