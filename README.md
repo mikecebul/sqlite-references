@@ -22,3 +22,8 @@ Insert the rows into the Actor Table
 
 Double Check the Actors ID's are connected to the Movie ID
 <img src="./pics/Problem1/DoubleCheckConnections.PNG">
+
+Problem 2
+
+Select three columns from a specific movie
+<img src="./pics/Problem2/tuple.PNG">
