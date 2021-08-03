@@ -9,3 +9,6 @@ Weeks 11 &amp; 12 - SQL select queries 2
 
 ## Problem 3: Spielberg Oscars
 <img src="./screenshots/problem3.PNG">
+
+## Problem 4: Common POBs
+<img src="./screenshots/problem4.PNG">
