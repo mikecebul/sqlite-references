@@ -22,3 +22,6 @@ Weeks 11 &amp; 12 - SQL select queries 2
 ## Problem 7: Directors of R-rated movies
 <img src="./screenshots/problem7.PNG">
 
+## Problem 8: Changing a movie’s rating
+<img src="./screenshots/problem8.1.PNG">
+<img src="./screenshots/problem8.2.PNG">
