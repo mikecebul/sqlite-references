@@ -12,3 +12,6 @@ Weeks 11 &amp; 12 - SQL select queries 2
 
 ## Problem 4: Common POBs
 <img src="./screenshots/problem4.PNG">
+
+## Problem 5: How many movies without Oscars?
+<img src="./screenshots/problem5.PNG">
