@@ -19,3 +19,6 @@ Weeks 11 &amp; 12 - SQL select queries 2
 ## Problem 6: Actors from Sweden
 <img src="./screenshots/problem6_rev2.PNG">
 
+## Problem 7: Directors of R-rated movies
+<img src="./screenshots/problem7.PNG">
+
