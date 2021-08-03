@@ -15,3 +15,7 @@ Weeks 11 &amp; 12 - SQL select queries 2
 
 ## Problem 5: How many movies without Oscars?
 <img src="./screenshots/problem5.PNG">
+
+## Problem 6: Actors from Sweden
+<img src="./screenshots/problem6.PNG">
+
