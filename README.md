@@ -4,8 +4,8 @@
 
 Solution:  
 select url, max(num)  
--from (select x.url, y.language, count(*) as num  
--from Occur x, Dictionary y  
--where x.word = y.word  
+  -from (select x.url, y.language, count(*) as num  
+from Occur x, Dictionary y  
+where x.word = y.word  
 group by x.url, y.language)  
 group by url
