@@ -63,3 +63,16 @@ Date text
 Text text  
 
 <img src="VideoRental_ERD.png">
+  
+  
+## 5), 6) are in the database provided
+  
+## 7) Add a common table expression to our Movie database.  
+
+### Answer
+WITH top_ten as (  
+SELECT earnings_rank, name FROM Movie  
+WHERE earnings_rank <= 10  
+)  
+SELECT * FROM top_ten  
+
