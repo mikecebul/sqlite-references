@@ -65,4 +65,4 @@ Rating int
 Date text  
 Text text  
 
-<img src=".VideoRental_ERD.PNG">
+<img src="./VideoRental_ERD.PNG">
