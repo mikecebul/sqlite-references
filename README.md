@@ -41,21 +41,21 @@ AND d2.language = d1.language))
   
 ### Answer  
   
-#### Movies as m     
+### Movies as m     
 Title PK int  
 Year int  
 Duration int  
   
-#### Customer as c  
+### Customer as c  
 Email PK text  
 Name text  
 Cedit int  
   
-#### Reviewer as rr  
+### Reviewer as rr  
 Name PK text FK - c.Name  
 Reputation int  
   
-#### Reviews as r  
+### Reviews as r  
 ReviewerName PK text FK >0- rr.Name  
 MovieTitle PK text FK >0- m.Title  
 Rating int  
