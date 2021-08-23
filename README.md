@@ -65,4 +65,4 @@ Rating int
 Date text  
 Text text  
 
-<img src="./screenshots/problem8.2.PNG">
+<img src=".VideoRental_ERD.PNG">
